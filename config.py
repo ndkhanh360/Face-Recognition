@@ -1,0 +1,9 @@
+DATASET_DIR = './data'
+OUTPUT_DIR='DESK-LIKE-MIKE-TINK'
+OUTPUT_MODEL_FILE='model-opencv-3-Desk-like-mike-tink'
+
+PTRAIN = 0.5
+PVAL = 0.0
+PTEST = 0.5
+
+IMAGE_SIZE=100
